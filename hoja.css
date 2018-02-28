@@ -3,7 +3,7 @@ div[class^="col-"] {
 }
 
 
-@media only screen and (max-width : 960px!important) {
+@media (max-width: 599px){
 
 	.row-servicios {
 		display: flex;
